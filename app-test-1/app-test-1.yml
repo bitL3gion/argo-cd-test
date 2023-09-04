@@ -59,7 +59,3 @@ spec:
             name: app-test-1-svc 
             port:
               number: 80
-  tls:
-  - hosts:
-    - app-test-1.kube-demo-1.clcreative.home
-    secretName: app-test-1-tls-secret     
